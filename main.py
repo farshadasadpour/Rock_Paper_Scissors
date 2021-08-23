@@ -2,7 +2,6 @@ from user_interface import user_interface
 from computer_choice import computer_choice
 from check_results import check_results
 
-
 def play():
     print('''
     ---------------------------------
